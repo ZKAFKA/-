@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(hook.dll.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  dllmain.cpp
+C:\Users\84534\Desktop\远程键盘监控\hook.dll\dllmain.cpp(166,25): warning C4244: “参数”: 从“DWORD”转换到“BYTE”，可能丢失数据
+    正在创建库 C:\Users\84534\Desktop\远程键盘监控\hook.dll\Debug\hook.lib 和对象 C:\Users\84534\Desktop\远程键盘监控\hook.dll\Debug\hook.exp
+  hook.dll.vcxproj -> C:\Users\84534\Desktop\远程键盘监控\hook.dll\Debug\hook.dll

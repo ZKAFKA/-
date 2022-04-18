@@ -1,0 +1,49 @@
+HOST:DESKTOP-5IBOO9M IP:172.30.0.1
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get[Shift]
+HOST:DESKTOP-5IBOO9M IP:172.30.0.1
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get
+[Ctrl]cget
+HOST:DESKTOP-5IBOO9M IP:172.30.0.1
+
+[是是是 - 搜索 - 个人 - Microsoft? Edge]:
+asdasd
+
+
+
+[新建标签页 和另外 1 个页面 - 个人 - Microsoft? Edge]:
+5555
+
+
+[Monitor (正在运行) - Microsoft Visual Studio]:
+o
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get
+
+HOST:DESKTOP-5IBOO9M IP:172.30.0.1
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get
+
+HOST:DESKTOP-5IBOO9M IP:172.30.0.1
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get
+
+HOST:DESKTOP-5IBOO9M IP:172.30.0.1
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get
+
+
+
+[5555teste - 搜索 和另外 1 个页面 - 个人 - Microsoft? Edge]:
+[<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--][<--]5555555555555555555555555555555
+
+[C:\Users\84534\Desktop\Master\Debug\Master.exe]:
+get
+

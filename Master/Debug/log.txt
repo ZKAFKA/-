@@ -1,0 +1,24 @@
+HOST:DESKTOP-5IBOO9M IP:172.30.144.1
+
+[2022/03/19 22:02:21]  [C:\Users\84534\Desktop\远程键盘监控\Monitor\Debug\Monitor.exe]:
+
+
+
+[2022/03/19 22:02:26]  [Program Manager]:
+
+[Win]d
+
+[2022/03/19 22:02:52]  [C:\Users\84534\Desktop\远程键盘监控\Master\Debug\Master.exe]:
+
+get
+
+
+
+[2022/03/19 22:03:04]  [localtime_s, _localtime32_s, _localtime64_s | Microsoft Docs 和另外 3 个页面 - 个人 - Microsoft? Edge]:
+
+jknknlnk
+
+[2022/03/19 22:03:10]  [C:\Users\84534\Desktop\远程键盘监控\Master\Debug\Master.exe]:
+
+get
+

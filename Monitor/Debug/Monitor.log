@@ -1,0 +1,3 @@
+﻿  monitor.cpp
+C:\Users\84534\Desktop\Monitor\monitor.cpp(226): warning C4715: “hookStill”: 不是所有的控件路径都返回值
+  Monitor.vcxproj -> C:\Users\84534\Desktop\Monitor\Debug\Monitor.exe
